@@ -1,0 +1,47 @@
+   <!-- https://mvnrepository.com/artifact/javax.servlet/jstl -->
+   <dependency>
+       <groupId>javax.servlet</groupId>
+       <artifactId>jstl</artifactId>
+       <version>1.2</version>
+   </dependency>
+   
+   <!-- https://mvnrepository.com/artifact/com.oracle.database.jdbc/ojdbc10 -->
+   <dependency>
+       <groupId>com.oracle.database.jdbc</groupId>
+       <artifactId>ojdbc10</artifactId>
+       <version>19.21.0.0</version>
+   </dependency>
+
+   <!-- https://mvnrepository.com/artifact/commons-beanutils/commons-beanutils -->
+   <dependency>
+       <groupId>commons-beanutils</groupId>
+       <artifactId>commons-beanutils</artifactId>
+       <version>1.9.4</version>
+   </dependency>
+
+   <!-- https://mvnrepository.com/artifact/com.h2database/h2 -->
+   <dependency>
+       <groupId>com.h2database</groupId>
+       <artifactId>h2</artifactId>
+       <version>2.1.214</version>
+   </dependency>
+
+   <!-- https://mvnrepository.com/artifact/org.glassfish.jersey.containers/jersey-container-servlet -->
+   <dependency>
+       <groupId>org.glassfish.jersey.containers</groupId>
+       <artifactId>jersey-container-servlet</artifactId>
+       <version>2.33</version>
+   </dependency>
+   <!-- https://mvnrepository.com/artifact/org.glassfish.jersey.inject/jersey-hk2 -->
+   <dependency>
+       <groupId>org.glassfish.jersey.inject</groupId>
+       <artifactId>jersey-hk2</artifactId>
+       <version>2.33</version>
+   </dependency>
+   <!-- https://mvnrepository.com/artifact/org.glassfish.jersey.media/jersey-media-json-jackson -->
+   <dependency>
+       <groupId>org.glassfish.jersey.media</groupId>
+       <artifactId>jersey-media-json-jackson</artifactId>
+       <version>2.33</version>
+   </dependency>
+   
